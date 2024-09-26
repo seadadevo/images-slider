@@ -3,6 +3,9 @@
 ## Description
 This is a drag-to-scroll image slider built using HTML, SCSS, and JavaScript. Users can navigate through a series of images by dragging or using the mouse wheel. The slider includes smooth animations, a responsive layout, and a progress bar that tracks the scrolling progress.
 
+## Demo
+Check out the live demo [here](https://seadadevo.github.io/images-slider/).
+
 ## Features
 - Drag and scroll functionality
 - Smooth transitions and animations
@@ -13,5 +16,4 @@ This is a drag-to-scroll image slider built using HTML, SCSS, and JavaScript. Us
 - SCSS
 - JavaScript
 
-## Demo ( https://seadadevo.github.io/images-slider/ 
-)[Demo link]
+
