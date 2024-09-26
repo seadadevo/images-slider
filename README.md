@@ -13,4 +13,5 @@ This is a drag-to-scroll image slider built using HTML, SCSS, and JavaScript. Us
 - SCSS
 - JavaScript
 
-## Demo ()[]
+## Demo ( https://seadadevo.github.io/images-slider/ 
+)[Demo link]
